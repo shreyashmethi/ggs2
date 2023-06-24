@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+pinecone-client
+googletrans==3.1.0a0
+pypdf
+
